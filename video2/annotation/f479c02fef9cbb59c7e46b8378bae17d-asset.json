@@ -1,0 +1,61 @@
+{
+    "asset": {
+        "id": "f479c02fef9cbb59c7e46b8378bae17d",
+        "format": "6",
+        "state": 2,
+        "type": 3,
+        "name": "test_edges.mp4#t=13.6",
+        "path": "file:D:/videovott/source/test_edges.mp4#t=13.6",
+        "size": {
+            "width": 640,
+            "height": 368
+        },
+        "parent": {
+            "format": "mp4",
+            "id": "3bb7c418fbe6a7c51b78d59e856475dd",
+            "name": "test_edges.mp4",
+            "path": "file:D:/videovott/source/test_edges.mp4",
+            "size": {
+                "width": 640,
+                "height": 368
+            },
+            "state": 1,
+            "type": 2
+        },
+        "timestamp": 13.6
+    },
+    "regions": [
+        {
+            "id": "9Ntiz1vzL",
+            "type": "RECTANGLE",
+            "tags": [
+                "AO1"
+            ],
+            "boundingBox": {
+                "height": 7.501199040767386,
+                "width": 7.498277050310131,
+                "left": 256.7057201929704,
+                "top": 209.2269184652278
+            },
+            "points": [
+                {
+                    "x": 256.7057201929704,
+                    "y": 209.2269184652278
+                },
+                {
+                    "x": 264.2039972432805,
+                    "y": 209.2269184652278
+                },
+                {
+                    "x": 264.2039972432805,
+                    "y": 216.7281175059952
+                },
+                {
+                    "x": 256.7057201929704,
+                    "y": 216.7281175059952
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
