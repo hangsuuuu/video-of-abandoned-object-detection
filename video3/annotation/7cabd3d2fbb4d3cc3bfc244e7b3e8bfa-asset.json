@@ -1,0 +1,61 @@
+{
+    "asset": {
+        "id": "7cabd3d2fbb4d3cc3bfc244e7b3e8bfa",
+        "format": "833333",
+        "state": 2,
+        "type": 3,
+        "name": "video3.mp4#t=72.833333",
+        "path": "file:D:/videovott/source/video3.mp4#t=72.833333",
+        "size": {
+            "width": 1624,
+            "height": 1080
+        },
+        "parent": {
+            "format": "mp4",
+            "id": "1b9a9b6dbe758cbe61509b8285932a66",
+            "name": "video3.mp4",
+            "path": "file:D:/videovott/source/video3.mp4",
+            "size": {
+                "width": 1624,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 2
+        },
+        "timestamp": 72.833333
+    },
+    "regions": [
+        {
+            "id": "vqOU4r5585",
+            "type": "RECTANGLE",
+            "tags": [
+                "AO1"
+            ],
+            "boundingBox": {
+                "height": 64.02684563758389,
+                "width": 71.29166666666666,
+                "left": 507.08463541666663,
+                "top": 486.84563758389265
+            },
+            "points": [
+                {
+                    "x": 507.08463541666663,
+                    "y": 486.84563758389265
+                },
+                {
+                    "x": 578.3763020833333,
+                    "y": 486.84563758389265
+                },
+                {
+                    "x": 578.3763020833333,
+                    "y": 550.8724832214765
+                },
+                {
+                    "x": 507.08463541666663,
+                    "y": 550.8724832214765
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
