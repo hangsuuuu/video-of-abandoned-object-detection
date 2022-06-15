@@ -1,0 +1,61 @@
+{
+    "asset": {
+        "id": "076542c389352e85a9835bf1306b3075",
+        "format": "033333",
+        "state": 2,
+        "type": 3,
+        "name": "video2.mp4#t=32.033333",
+        "path": "file:C:/vottvideo/source/video2.mp4#t=32.033333",
+        "size": {
+            "width": 650,
+            "height": 432
+        },
+        "parent": {
+            "format": "mp4",
+            "id": "ad059981f26efc54d60f0af906c6a356",
+            "name": "video2.mp4",
+            "path": "file:C:/vottvideo/source/video2.mp4",
+            "size": {
+                "width": 650,
+                "height": 432
+            },
+            "state": 1,
+            "type": 2
+        },
+        "timestamp": 32.033333
+    },
+    "regions": [
+        {
+            "id": "D6OQI2eOzW",
+            "type": "RECTANGLE",
+            "tags": [
+                "AO1"
+            ],
+            "boundingBox": {
+                "height": 46.21395348837209,
+                "width": 47.52832131822863,
+                "left": 405.66426364572607,
+                "top": 326.6267441860465
+            },
+            "points": [
+                {
+                    "x": 405.66426364572607,
+                    "y": 326.6267441860465
+                },
+                {
+                    "x": 453.1925849639547,
+                    "y": 326.6267441860465
+                },
+                {
+                    "x": 453.1925849639547,
+                    "y": 372.8406976744186
+                },
+                {
+                    "x": 405.66426364572607,
+                    "y": 372.8406976744186
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
